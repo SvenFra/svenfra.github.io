@@ -8,3 +8,9 @@ remote_theme: pages-themes/cayman@v0.2.0
 
 # Optional (für interne Links)
 # baseurl: ""
+
+# Social / external links (set these to your real profiles)
+linkedin_url: "https://www.linkedin.com/in/sven-franke-3004b0251"
+google_scholar_url: "https://scholar.google.com/citations?user=Q6C7hs0AAAAJ&hl=de"
+projects_url: "/#projects"
+contact_url: "/#contact"
