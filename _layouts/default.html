@@ -10,6 +10,7 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     {% include head-custom.html %}
   </head>
   <body>
@@ -18,20 +19,16 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-
-      <p class="header-links">
-        <a href="{{ site.linkedin_url | default: '#' }}" class="btn" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-        <a href="{{ site.google_scholar_url | default: '#' }}" class="btn" target="_blank" rel="noopener noreferrer">Google Scholar</a>
-        <a href="{{ site.projects_url | default: '/#projects' }}" class="btn">Projekte</a>
-        <a href="{{ site.contact_url | default: '/#contact' }}" class="btn">Kontakt</a>
-        {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-        {% endif %}
-        {% if site.show_downloads %}
-          <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-          <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-        {% endif %}
-      </p>
+      <a href="https://www.linkedin.com/in/sven-franke-3004b0251" class="btn" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      <a href="https://scholar.google.com/citations?user=Q6C7hs0AAAAJ&hl=de" class="btn" target="_blank" rel="noopener noreferrer"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+      <a href="https://orcid.org/0000-0001-5822-5745" class="btn" target="_blank" rel="noopener noreferrer"><i class="fab fa-orcid"></i> ORCID</a>
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View this page on GitHub</a>
+      {% endif %}
+      {% if site.show_downloads %}
+        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+      {% endif %}
     </header>
 
     <main id="content" class="main-content" role="main">
