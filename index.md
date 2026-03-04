@@ -57,6 +57,7 @@ This is the personal website of Sven Franke, showcasing research, projects, and 
 Links to publications and academic contributions:
 - [Google Scholar Profile](https://scholar.google.com/citations?user=Q6C7hs0AAAAJ&hl=de)
 - [ORCID Profile](https://orcid.org/0000-0001-5822-5745)
+- [ResearchGate Profile](https://www.researchgate.net/profile/Sven-Franke?ev=hdr_xprf)
 
 ### Datasets
 
@@ -78,7 +79,7 @@ Links to publications and academic contributions:
 - [M2X – standardisierte Schnittstellen für mobile Roboter]({{ "/assets/pubs/FTS_AMR_E_Paper_06_2025.pdf" | relative_url }}) — FTS-/AMR-Facts: 39. Ausgabe, Page 36-37, Dezember 2025 (German)
   Sven Franke and Dennis Lünsch  
   
-  [To the online article](https://www.home-of-logistics.de/storage/media_intralogistics/documents/739/FTS_AMR_E_Paper_06_2025.pdf)
+  - [To the online article](https://www.home-of-logistics.de/storage/media_intralogistics/documents/739/FTS_AMR_E_Paper_06_2025.pdf)
 
 ## Projects
 
@@ -88,6 +89,21 @@ Links to publications and academic contributions:
 
 - Sensor-based logistical activity detection of (Euro) pallets - Pal2Rec, 2024-02 - 2024-10, partner Fraunhofer IML
   [Further information](https://www.bmv.de/SharedDocs/DE/Artikel/DG/mfund-projekte/pal2rec.html)
+
+## Invited Talks & Presentations
+
+- Mobile Robotics Summit 2025, Düsseldorf: M2X Weiterführende Standardisierungen im Umfeld von FTS neben der VDA 5050
+
+  - Watch the [Keynote](https://www.youtube.com/watch?v=BGM0--Brb9E)
+
+- 23. VDI-Flurförderzeugtagung 2025, Mainz: M2X Schnittstelle für die Kommunikation zwischen mobilen Robotern und Industrieumgebungen – Zusammenspiel zwischen Industrie und Wissenschaft
+
+  - [Program](https://www.vdi-wissensforum.de/weiterbildung-automobil/vdi-flurfoerderzeugtagung/#program)
+
+- 32. Materialflusskongress 2025, München: M2X Eine Open Source Schnittstelle für die mobile Robotik
+
+- 1. German Robotics Conference 2025, Robotics Institue Germany, Nürnberg: Shaping the Future of Mobile Robotics Together with Industry An Approach of Standardizing Interfaces (accepted Poster)
+
 
 ## Contact
 
