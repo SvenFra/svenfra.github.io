@@ -96,13 +96,20 @@ Links to publications and academic contributions:
 
   - Watch the [Keynote](https://www.youtube.com/watch?v=BGM0--Brb9E)
 
-- 23. VDI-Flurförderzeugtagung 2025, Mainz: M2X Schnittstelle für die Kommunikation zwischen mobilen Robotern und Industrieumgebungen – Zusammenspiel zwischen Industrie und Wissenschaft
+- North Carolina State University Computer Vision in Warehousing – An Introduction. Operations
+Research Graduate Seminar & Cyber Physical Systems Workshop, with Jérôme Rutinowski, September 2025, Raleigh, USA
+
+- VDI-Flurförderzeugtagung (23.) 2025, Mainz: M2X Schnittstelle für die Kommunikation zwischen mobilen Robotern und Industrieumgebungen – Zusammenspiel zwischen Industrie und Wissenschaft
 
   - [Program](https://www.vdi-wissensforum.de/weiterbildung-automobil/vdi-flurfoerderzeugtagung/#program)
 
-- 32. Materialflusskongress 2025, München: M2X Eine Open Source Schnittstelle für die mobile Robotik
+- Materialflusskongress (32.) 2025, München: M2X Eine Open Source Schnittstelle für die mobile Robotik
 
-- 1. German Robotics Conference 2025, Robotics Institue Germany, Nürnberg: Shaping the Future of Mobile Robotics Together with Industry An Approach of Standardizing Interfaces (accepted Poster)
+- First German Robotics Conference 2025, Robotics Institue Germany, Nürnberg: Shaping the Future of Mobile Robotics Together with Industry An Approach of Standardizing Interfaces (accepted Poster)
+
+- Graduate School of Logistics, Invited Presentation at PhD Winter School, December 2024, Trustworthiness of ChatGPT with Ina Dormuth
+
+- ERASMUS+ Visiting Scholar, Budapest University of Technology and Economics, Hungary, October 2022
 
 
 ## Contact
