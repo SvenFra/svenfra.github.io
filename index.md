@@ -48,6 +48,8 @@ This is the personal website of Sven Franke, showcasing research, projects, and 
 - **Best Speaker Award (2nd Place)** - Mobile Robotics Summit 2025  
   For presentation on "M2X Further standardization in the field of AGVs alongside VDA 5050"
 
+- **Top Cited Article in Human Behavior and Emerging Technologies 2024** for The Self-Perception and Political Biases of ChatGPT, [Certificate]({{ "/assets/pubs/certificate-top-cited.pdf" | relative_url }})
+
 - **Deutschlandstipendium (German Scholarship)** - TU Dortmund University, 2020/2021  
   Funded by LANXESS AG
 
