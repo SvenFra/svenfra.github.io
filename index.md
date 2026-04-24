@@ -79,7 +79,7 @@ Links to publications and academic contributions:
 - [M2X – standardisierte Schnittstellen für mobile Roboter]({{ "/assets/pubs/FTS_AMR_E_Paper_06_2025.pdf" | relative_url }}) — FTS-/AMR-Facts: 39. Ausgabe, Page 36-37, Dezember 2025 (German)
   Sven Franke and Dennis Lünsch  
   
-  - [To the online article](https://www.home-of-logistics.de/storage/media_intralogistics/documents/739/FTS_AMR_E_Paper_06_2025.pdf)
+  - [To the online article](https://www.home-of-logistics.de/fts-amr-facts/39-ausgabe-dezember-2025-36)
 
 ## Projects
 
