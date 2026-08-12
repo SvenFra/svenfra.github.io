@@ -2,13 +2,17 @@
 title: Sven Franke
 ---
 
-# Welcome
 
-This is the personal website of Sven Franke, showcasing research, projects, and academic work.
+# About Me
 
-## About Me
+<img src="{{ '/assets/pubs/Portrait-Sven.jpg' | relative_url }}" alt="Portrait of Sven Franke" style="max-width: 320px; width: 100%; height: auto; display: block; margin: 0 auto 1.5rem auto; border-radius: 10px;">
 
- I am a research associate and PhD student specializing in material handling, warehousing, and mobile robotics.
+Hey my name is Sven.
+
+I work at the intersection of mobile robotics, warehousing, and standardization. 
+My work spans from theoretical foundations with clear definitions and systematic taxonomies to practical interoperability through the Machine2X interfaces. 
+By bringing scientific rigor and real-world industrial challenges together, I develop solutions that make mobile robot systems easier to understand, integrate, and operate.
+Currently, I am a research associate and PhD student at TU Dortmund University in Germany.
 
 ### Education
 
@@ -17,7 +21,7 @@ This is the personal website of Sven Franke, showcasing research, projects, and 
 
 ### Professional Experience
 
-**Research Associate** - Chair of Material Handling and Warehousing, TU Dortmund University  
+**Research Associate** - Chair of Material Handling and Warehousing, Department of Mechanical Engineering, TU Dortmund University  
 *April 2022 - Present*
 - Research in material handling systems and warehouse automation
 - Mobile robotics and AGV standardization (M2X)
@@ -25,7 +29,7 @@ This is the personal website of Sven Franke, showcasing research, projects, and 
 
 **Student Assistant** - Fraunhofer Institute for Material Flow and Logistics IML, Department of Intralogistics and IT Planning  
 *December 2019 - March 2022*
-- Supported research projects in intralogistics planning
+- Supported research projects in warehouse planning
 
 **Intern** - HELLA (now FORVIA HELLA), SMD Production  
 *September 2019 - November 2019*
@@ -83,6 +87,9 @@ Links to publications and academic contributions:
   
   - [To the online article](https://www.home-of-logistics.de/fts-amr-facts/39-ausgabe-dezember-2025-36)
 
+- Standardisierte Schnittstellen für fahrerlose Transportsysteme in der Intralogistik in Ergänzung der VDA 5050 Richtlinie (German Article) in Werkstoffe in der Fertigung, Ausgabe 1, February 2025 
+  Sven Franke and Christoph Pott
+
 ## Projects
 
 - M2X - Interface for communication between mobile robots and peripherals in industrial environments, 2024-03 - 2026-08
@@ -93,6 +100,8 @@ Links to publications and academic contributions:
   [Further information](https://www.bmv.de/SharedDocs/DE/Artikel/DG/mfund-projekte/pal2rec.html)
 
 ## Invited Talks & Presentations
+
+- Logistikwerkstatt Graz 2026, Graz Austria, Invited Poster: Forschung wird zum Standard M2X – Eine einheitliche Kommunikation in der mobilen Robotik
 
 - Mobile Robotics Summit 2025, Düsseldorf: M2X Weiterführende Standardisierungen im Umfeld von FTS neben der VDA 5050
 
@@ -113,6 +122,25 @@ Research Graduate Seminar & Cyber Physical Systems Workshop, with Jérôme Rutin
 
 - ERASMUS+ Visiting Scholar, Budapest University of Technology and Economics, Hungary, October 2022
 
+## Other Activities
+
+- Projectlead of Machine2X (M2X)
+
+- Member of VDA 5050 Core Group
+
+- Member of VDMA Intralogistics2X (I2X) Group
+
+- Invited Reviewer at 31st IEEE International Conference on Emerging Technologies and Factory Automation (ETFA) 2026 for Special Session 2 _Cyber-Physical Integration and Orchestration of Autonomous Transport and Intralogistics Systems in Factory Automation_ and Special Session 8 _Emerging Intelligent Technologies for Automated Logistics Systems: Agents, Perception, and Planning in Practice_
+
+- Member of the Doctoral Committee of the Department of Mechanical Engineering, TU Dortmund University, 10/2023 - 10/2026
+
+- Member of Appeals Commission for Professorships, 2026
+
+- Certified First Aid Responder
+
+- Laser Safety Advisor
+
+- Operator for Lifting Platforms
 
 ## Contact
 
