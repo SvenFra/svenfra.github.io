@@ -7,7 +7,7 @@ title: Sven Franke
 
 <img src="{{ '/assets/pubs/Portrait-Sven.jpg' | relative_url }}" alt="Portrait of Sven Franke" style="max-width: 320px; width: 100%; height: auto; display: block; margin: 0 auto 1.5rem auto; border-radius: 10px;">
 
-Hey my name is Sven.
+Hey, my name is Sven.
 
 I work at the intersection of mobile robotics, warehousing, and standardization. 
 My work spans from theoretical foundations with clear definitions and systematic taxonomies to practical interoperability through the Machine2X interfaces. 
@@ -134,13 +134,73 @@ Research Graduate Seminar & Cyber Physical Systems Workshop, with Jérôme Rutin
 
 - Member of the Doctoral Committee of the Department of Mechanical Engineering, TU Dortmund University, 10/2023 - 10/2026
 
-- Member of Appeals Commission for Professorships, 2026
+- Member of Appeals Commission for Professorships, TU Dortmund University, 2026
 
 - Certified First Aid Responder
 
 - Laser Safety Advisor
 
 - Operator for Lifting Platforms
+
+## Supervised Theses (Bachelor's, Master's or Project Theses)
+- Evaluation of Humanoid Robots in Warehousing: A Criteria-Based Comparison with Human Labor and Existing Automation Technologies, 2026, Bachelor
+
+- Systematic Evaluation of the Use of Driverless Transport Systems in Hybrid Production and Warehouse Environments - Development and Validation of an Application-Oriented Decision-Making Framework, 2026, Master
+
+- Development and Validation of a Decision-Support Tool for Evaluating and Selecting Automated Guided Vehicles (AGVs) in Warehouse Logistics – A Case Study at LFP Logistics for Filling and Packaging GmbH, 2026, Master
+
+- Development of a Handling Concept for the Automated Unloading of Containers in the CEP Industry, 2026, Master
+
+- Feasibility Study of Driverless Transport Systems – Development of an Evaluation Model for Warehousing Material Flows, 2026, Master
+
+- Analysis and Evaluation of Changes in Logistics Systems Resulting from the Use of Mobile Robots, 2026, Master
+
+- Logistics Chatbot (LLM), 2025, Master
+
+- Development and Simulation of a Scalable OpenTCS Environment in Unity, 2025, Bachelor
+
+- Game Studies Culture, 2025, Project
+
+- Educational Game Development in Logistics: A Board Game for Teaching Logistics Concepts and Effects, 2025, Master
+
+- Terminology and Definitions for Driverless Transport Vehicles and Systems - A Systematic Literature Review, 2025, Master
+
+- Mobile Robots - Where Are We Now? A National and International Market and Product Analysis, 2025, Bachelor
+
+- Evaluation of the Use of AI Tools to Improve the Efficiency of Logistics Planning in a Medium-Sized Company, 2025, Master
+
+- Game-Based Learning: Design and Development of a Video Game for Higher Education to Teach Logistical Principles, 2024, Master
+
+- Adapting Traditional Teaching Methods to Modern University Requirements: Using the Lecture Material Flow Systems II as an Example, 2024, Master
+
+- Map of University Serious Gaming Programs in Germany, 2024, Project
+
+- Terminology and Definitions for Driverless Transport Vehicles and Systems, 2024, Bachelor
+
+- Concept for Motion Classification of the Smart Pallet, 2024, Bachelor
+
+- VDA 5050 - An Analysis and Classification (1), 2023, Bachelor
+
+- VDA 5050 - An Analysis and Classification (2), 2023, Bachelor
+
+- Business Process Modeling in the Context of Management Consulting: A Literature-Based Comparison of Existing Standards and Derivation of Recommendations for Implementation at MotionMiners GmbH, 2023, Bachelor
+
+- Systematic Literature Review on Activity Detection in the Context of Logistics Objects, 2023, Bachelor
+
+- Representation of Logistics Principles and Supply Chains in Video Games, 2023, Bachelor
+
+- Market Research on Inertial Sensors for a Smart Pallet, 2023, Project
+
+- Gamification of Logistics Principles – Development of a Digital Logistics Game for Use in University Teaching, 2023, Master
+
+- Optimizing Storage Space Allocation – Applications of ABC Zoning Using the Example of a Multi-Story Shelving System, 2022, Master
+
+- Comparison of Time-Management Methods for Process Analysis of Material Provision in Electronics Manufacturing as a 
+Success Factor in Balancing the Logistical Workload, 2022, Bachelor
+
+- Assessment and Analysis of Potential Markets for Cyber-Physical Production Systems and Presentation of a Possible Integration Strategy, 2022, Bachelor
+
+- Analysis of the Human Perspective in Time Management Methods, 2022, Bachelor
 
 ## Contact
 
