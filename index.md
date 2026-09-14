@@ -82,10 +82,10 @@ Links to publications and academic contributions:
 
 ### Professional Magazine Articles
 
+- Buchstabensuppe: FTF, AGV, AMR, MR ... Zwischen Wissenschaft, Technik und Marketing: Was die einzelnen Abkürzungen unterscheidet (German Article) in Technische Logistik Special FTS / Mobile Robotik 2026 Page 28/29 [German Summary from Jan Kaulfuhs-Berger](https://www.technische-logistik.net/news/buchstabensuppe-ftf-agv-amr-mr-was-53-experten-unter-den-begriffen-verstehen.html), [Full Article Paywall](https://www.technische-logistik.net/fachmagazin/fachartikel/buchstabensuppe-ftf-agv-amr-mr.html) Sven Franke
+
 - [M2X – standardisierte Schnittstellen für mobile Roboter]({{ "/assets/pubs/FTS_AMR_E_Paper_06_2025.pdf" | relative_url }}) — FTS-/AMR-Facts: 39. Ausgabe, Page 36-37, Dezember 2025 (German)
-  Sven Franke and Dennis Lünsch  
-  
-  - [To the online article](https://www.home-of-logistics.de/fts-amr-facts/39-ausgabe-dezember-2025-36)
+  Sven Franke and Dennis Lünsch [Article](https://www.home-of-logistics.de/fts-amr-facts/39-ausgabe-dezember-2025-36)
 
 - Standardisierte Schnittstellen für fahrerlose Transportsysteme in der Intralogistik in Ergänzung der VDA 5050 Richtlinie (German Article) in Werkstoffe in der Fertigung, Ausgabe 1, February 2025 
   Sven Franke and Christoph Pott
